@@ -133,7 +133,7 @@ Then open the notebook using Jupyter Notebook or JupyterLab.
 
 📋 Project Status
 
-Status: Completed / In Progress
+Status: Completed 
 
 The project can be further developed by adding additional analysis, interactive dashboards, predictive modelling, or more advanced statistical techniques.
 
